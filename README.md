@@ -14,6 +14,5 @@ Completed:
 * [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ![Video Walkthrough](name of your gif tips.gif)
-<img src="http://cl.ly/image/1k1o2T1L3n3P" alt="" width="300">
 
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
